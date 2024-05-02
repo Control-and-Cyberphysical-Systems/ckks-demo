@@ -15,6 +15,27 @@ application.
 The source code in this repository is shared under the MIT license. See the
 [LICENSE](./LICENSE) file.
 
+## Citing
+
+If you would like to refer to this project in scientific publications, please
+reference the original [journal article](https://doi.org/10.1016/j.arcontrol.2023.100913)
+as:
+
+```bibtex
+@article{schlueter2023encryptedcontrolsurvey,
+  title = {A brief survey on encrypted control: From the first to the second generation and beyond},
+  journal = {Annual Reviews in Control},
+  volume = {56},
+  pages = {100913},
+  year = {2023},
+  issn = {1367-5788},
+  doi = {https://doi.org/10.1016/j.arcontrol.2023.100913},
+  url = {https://www.sciencedirect.com/science/article/pii/S1367578823000779},
+  author = {Schl\"{u}ter, Nils and Binfet, Philipp and Schulze Darup, Moritz},
+  keywords = {Encrypted control, Homomorphic encryption, Secure multi-party computation},
+}
+```
+
 ## Acknowledgements
 
 The contents of this repository were developed as part of projects with
